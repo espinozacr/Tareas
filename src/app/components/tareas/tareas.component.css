@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.card h6 {
+    text-transform: capitalize;
+    text-align: center;
+    color: #7a7a7a;
+}
+input {
+    text-align: center;
+}
+.cursor {
+    cursor: pointer;
+}
